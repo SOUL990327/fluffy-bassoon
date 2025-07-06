@@ -1,0 +1,21 @@
+// data/cards.ts
+export const cards = [
+    { id: "1", title: "Śrī Guru Praṇāma", description: "Respectful obeisances to the spiritual master." },
+    { id: "2", title: "Śrī Rūpa Praṇāma", description: "Respectful obeisances to Śrīla Rūpa Gosvāmī." },
+    { id: "3", title: "Maṅgalācaraṇa", description: "Respectful obeisances to Hari, Guru and Vaiṣṇavas" },
+    { id: "4", title: "Śrīla Prabhupāda Praṇati", description: "Respectful obeisances to Śrīla A. C. Bhaktivedānta Swāmī Prabhupāda." },
+    { id: "5", title: "Śrīla Bhaktisiddhānta Praṇati", description: "Respectful obeisances to Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Prabhupāda" },
+    { id: "6", title: "Śrīla Gaurakiśora Praṇati", description: "Respectful obeisances to Śrīla Gaura-kiśora dāsa Bābājī Mahārāja." },
+    { id: "7", title: "Śrīla Bhaktivinoda Praṇati", description: "Respectful obeisances to Śrīla Bhaktivinoda Ṭhākura." },
+    { id: "8", title: "Śrīla Jagannātha Praṇati", description: "Respectful obeisances to Jagannātha dāsa Bābājī Mahārāja." },
+    { id: "9", title: "Śrī Vaiṣṇava Praṇāma", description: "Respectful obeisances to all Vaiṣṇava devotees." },
+    { id: "10", title: "Śrī Gaurāṅga Praṇāma", description: "Respectful obeisances to Śrī Kṛṣṇa Caitanya Mahāprabhu." },
+    { id: "11", title: "Śrī Pañca-tattva Praṇāma", description: "Respectful obeisances to Śrī Pañca-tattva." },
+    { id: "12", title: "Śrī Kṛṣṇa Praṇāma", description: "Respectful obeisances to Lord Śrī Kṛṣṇa." },
+    { id: "13", title: "Sambandhādhideva Praṇāma", description: "Respectful obeisances to Śrī Rādhā-Madana-mohana." },
+    { id: "14", title: "Abhidheyādhideva Praṇāma", description: "Respectful obeisances to Śrī Rādhā-Govinda." },
+    { id: "15", title: "Prayojanādhideva Praṇāma", description: "Respectful obeisances to Śrī Gopīnātha." },
+    { id: "16", title: "Śrī Rādhā Praṇāma", description: "Respectful obeisances to Śrīmatī Rādhārāṇī." },
+    { id: "17", title: "Pañca-tattva Mahā-mantra", description: "Great mantra for deliverance: Pañca-tattva Mahā-mantra." },
+    { id: "18", title: "Hare Kṛṣṇa Mahā-mantra", description: "Great mantra for deliverance: Hare Kṛṣṇa Mahā-mantra." },
+];
